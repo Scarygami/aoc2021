@@ -4,9 +4,9 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | Day | Language / Tool                                 |
 | --- | ----------------------------------------------- |
 | 1   | Solidity / Ethereum                             |
-| 2   |                                                 |
-| 3   |                                                 |
-| 4   |                                                 |
+| 2   | Excel                                           |
+| 3   | Excel                                           |
+| 4   | Python                                          |
 | 5   |                                                 |
 | 6   |                                                 |
 | 7   |                                                 |
