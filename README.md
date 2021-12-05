@@ -7,7 +7,7 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 2   | Excel                                           |
 | 3   | Excel                                           |
 | 4   | Python                                          |
-| 5   |                                                 |
+| 5   | Python                                          |
 | 6   |                                                 |
 | 7   |                                                 |
 | 8   |                                                 |
