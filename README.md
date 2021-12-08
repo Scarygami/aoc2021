@@ -8,9 +8,9 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 3   | Excel                                           |
 | 4   | Python                                          |
 | 5   | Python                                          |
-| 6   |                                                 |
-| 7   |                                                 |
-| 8   |                                                 |
+| 6   | Excel                                           |
+| 7   | Excel                                           |
+| 8   | Python                                          |
 | 9   |                                                 |
 | 10  |                                                 |
 | 11  |                                                 |
