@@ -11,10 +11,10 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 6   | Excel                                           |
 | 7   | Excel                                           |
 | 8   | Python                                          |
-| 9   |                                                 |
-| 10  |                                                 |
-| 11  |                                                 |
-| 12  |                                                 |
+| 9   | Excel                                           |
+| 10  | Excel                                           |
+| 11  | Python                                          |
+| 12  | Python                                          |
 | 13  |                                                 |
 | 14  |                                                 |
 | 15  |                                                 |
