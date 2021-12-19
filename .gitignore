@@ -4,3 +4,4 @@ artifacts
 .env
 venv
 input.txt
+__pycache__

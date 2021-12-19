@@ -1,1 +1,1 @@
-# [Day 18: Chiton](https://adventofcode.com/2021/day/18)
+# [Day 18: Snailfish](https://adventofcode.com/2021/day/18)
