@@ -22,7 +22,7 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 17  | Part 1: Maths / Part 2: Python                  |
 | 18  | Python                                          |
 | 19  | Python                                          |
-| 20  |                                                 |
+| 20  | Python                                          |
 | 21  |                                                 |
 | 22  |                                                 |
 | 23  |                                                 |
