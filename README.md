@@ -25,6 +25,6 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 20  | Python                                          |
 | 21  | Python                                          |
 | 22  | Python                                          |
-| 23  |                                                 |
+| 23  | Python                                          |
 | 24  |                                                 |
 | 25  |                                                 |

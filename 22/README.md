@@ -1,1 +1,1 @@
-# [Day 20: Trench Map](https://adventofcode.com/2021/day/20)
+# [Day 22: Reactor Reboot](https://adventofcode.com/2021/day/22)
