@@ -27,4 +27,4 @@ My attempts at solving the daily coding challenges of [Advent of Code 2021](http
 | 22  | Python                                          |
 | 23  | Python                                          |
 | 24  | Pen & Paper                                     |
-| 25  |                                                 |
+| 25  | Python                                          |
